@@ -29,6 +29,15 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>Payment Gateways includes </h3>
+<p>
+  <img alt="paypalplus" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" style="width:70px;" />
+  <img alt="google pay" src="https://pay.google.com/about/static_kcs/images/logos/footer-logo.svg" style="width:85px;" />
+  <img alt="amazon" src="https://m.media-amazon.com/images/G/31/lpa/in/common/assets/logo_amazonpay-primary-fullcolor-positive._CB1198675309_.png" style="width:74px;" />
+  <img alt="mercadopago" src="https://http2.mlstatic.com/frontend-assets/mp-web-navigation/ui-navigation/5.19.1/mercadopago/logo__large.png" style="width:70px;" />
+  <img alt="appmax" src="https://appmax.io/assets/img/Logo_Appmax_curvas-01.svg" style="width:70px;" />
+</p>
+
 <p> <h3>Here are our social presence <h3>  </p>
 <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/></a>
 <a href="" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
